@@ -53,10 +53,6 @@ Port Verification
 
 Current:
 ```sh
-const port = process.env.PORT || 8084;
-```
-New:
-```sh
 const port = 8084;
 ```
 
